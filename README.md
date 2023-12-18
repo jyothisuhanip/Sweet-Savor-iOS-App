@@ -1,4 +1,6 @@
-Sweet Savor is an iOS app developed using SwiftUI containing all the desserts and their recipes available in themealdb. The Home Page consists of all the desserts of themealdb, on click of each dessert it's directed to a detail page which contains the recipe of the dessert.
+Sweet Savor is an iOS app developed using SwiftUI containing all the desserts and their recipes available in themealdb. 
+The Home Page consists of all the desserts of themealdb, on click of each dessert it's directed to a detail page which contains the recipe of the dessert.
+
 Environment: Xcode 15
 Technology: SwiftUIgrtu
 
