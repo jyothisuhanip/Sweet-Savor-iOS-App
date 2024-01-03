@@ -15,3 +15,4 @@ To Do's:
 2. Lazily load images on scroll
 3. Optimize the code by removing redundancy
 4. Learn more about async/await mechanisms in SwiftUI
+5. Add Unit Tests 
